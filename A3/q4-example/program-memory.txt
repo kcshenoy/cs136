@@ -1,0 +1,25 @@
+program.c when line 14 is reached (for the first time)
+
+****************************************
+GLOBAL MEMORY
+  my_global: 23
+
+****************************************
+READ-ONLY MEMORY
+  my_constant: 42
+
+****************************************
+STACK
+===================================
+my_function:
+  param_1: 4
+  param_2: 8
+  mf_local_1: 12
+  mf_local_2: ???
+  return address: main:21
+===================================
+main:
+  main_local_1: 4
+  main_local_2: ???
+  return address: OS
+===================================

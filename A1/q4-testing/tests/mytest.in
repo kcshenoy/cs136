@@ -1,0 +1,28 @@
+isempty
+push 10
+top
+push 20
+isempty
+pop
+top
+count
+reset
+push -1
+push -35
+pop
+reset
+reset
+count
+isempty
+push 6
+push -21
+top
+push 30
+top
+count
+pop
+top
+pop
+top
+pop
+isempty

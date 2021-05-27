@@ -1,0 +1,7 @@
+stack is empty
+stack is not empty
+top: 8
+quit error: stack is not empty
+top error: stack is empty
+pop error: stack is empty
+goodbye

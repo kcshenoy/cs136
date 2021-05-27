@@ -1,0 +1,17 @@
+insert A 10
+insert B 11
+insert C 20
+insert D 15
+insert E 13
+insert F 12
+insert G 9
+insert H 21
+insert I 3
+insert J 2
+print
+remove
+print
+remove
+remove
+print
+remove

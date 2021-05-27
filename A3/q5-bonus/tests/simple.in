@@ -1,0 +1,11 @@
+empty
+push 4
+push 8
+empty
+top
+pop
+quit
+pop
+top
+pop
+quit

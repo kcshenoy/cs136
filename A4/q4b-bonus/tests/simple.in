@@ -1,0 +1,4 @@
+foldr sum 1 2 3 # 4
+foldr prod 1 2 3 # 4
+foldl sum 1 2 3 # 4
+foldl prod 1 2 3 # 4

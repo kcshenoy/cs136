@@ -1,0 +1,12 @@
+Alice, priority <6>
+[START]
+ -> Alice, priority <6>
+ -> Bob, priority <4>
+ -> Craig, priority <6>
+[END]
+Alice, priority <6>
+[START]
+ -> Craig, priority <6>
+ -> Eve, priority <8>
+ -> Grace, priority <99>
+[END]

@@ -1,0 +1,7 @@
+add Hello
+add World
+print
+replace 0 Bye
+print
+quit
+

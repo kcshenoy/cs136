@@ -1,0 +1,18 @@
+dough 13
+chips 2
+show
+bake
+dough 7
+chips 2
+bake
+chips 1
+bake
+dough 12
+chips 3
+bake
+show
+dough 50
+chips 10
+empty
+show
+close

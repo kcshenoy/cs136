@@ -1,0 +1,7 @@
+read racecar
+print
+mirror
+print
+undo
+print
+quit

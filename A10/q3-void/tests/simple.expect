@@ -1,0 +1,5 @@
+[FRONT]: A -> BB -> CCC -> [BACK]
+Length of "A" is 1.
+Length of "BB" is 2.
+Length of "CCC" is 3.
+[FRONT]: "Welcome to the Great White North." (string length is 34, eh, 33) -> "How is to going, eh?" (string length is 20, eh, 20) -> "I'm Bob McKenzie, this is my brother Doug." (string length is 40, eh, 42) -> [BACK]
